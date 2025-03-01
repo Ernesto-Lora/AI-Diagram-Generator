@@ -7,7 +7,7 @@ Click the thumbnail above to watch the full video tutorial.
 Begin by cloning the repository:
 
 ```bash
-git clone https://github.com/rsrohan99/ai-diagram-generator.git
+git clone https://github.com/Ernesto-Lora/AI-Diagram-Generator.git
 cd ai-diagram-generator
 ```
 
