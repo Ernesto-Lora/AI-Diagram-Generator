@@ -1,5 +1,7 @@
 We utilize LlamaIndex's Pydantic Program mode for generating structured outputs. Additionally, we implement partial object parsing to transmit intermediate objects, which are validated against Pydantic models before being sent to the frontend.
 
+![app](app.png)
+
 ## Getting Started
 
 Begin by cloning the repository:
